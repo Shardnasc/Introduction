@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... software development
 - 🌱 I’m currently learning ... HTML, Javascript, and C#
 - 💞️ I’m looking to collaborate on ... personal projects
-- 📫 How to reach me ... on LinkedIn
+- 📫 How to reach me ... on LinkedIn (www.linkedin.com/in/andy-wonggg/)
 
 <!---
 Shardnasc/Shardnasc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
