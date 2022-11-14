@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shardnasc
+- 👋 Hi, I’m Andy Wong and online alias: Shardnasc
 - 👀 I’m interested in ... software development
 - 🌱 I’m currently learning ... HTML, Javascript, and C#
 - 💞️ I’m looking to collaborate on ... personal projects
